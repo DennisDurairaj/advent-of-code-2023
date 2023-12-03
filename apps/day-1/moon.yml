@@ -1,0 +1,10 @@
+type: 'application'
+language: 'typescript'
+
+tasks:
+  build:
+    command: 'bun run ./src/index.ts'
+    inputs:
+      - 'src/**/*'
+    outputs:
+      - 'build'

@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "../"
+    },
+    {
+      "name": "day-1",
+      "path": "../apps/day-1"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules/": true,
+      "apps/": true
+    }
+  }
+}
